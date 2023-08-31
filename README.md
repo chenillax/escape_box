@@ -1,1 +1,1 @@
-![Super Image](image.png)
+![Super Image](fake_table.png)
